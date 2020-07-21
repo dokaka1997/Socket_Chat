@@ -227,7 +227,7 @@ public class ClientGUI extends JFrame {
 
     public JLabel getLblNewLabel_2() {
 	if (lblNewLabel_2 == null) {
-	    lblNewLabel_2 = new JLabel("DoanDucTin_SE1403");
+	    lblNewLabel_2 = new JLabel("DoDV");
 	    lblNewLabel_2.setFont(new Font("Tahoma", Font.ITALIC, 15));
 	    lblNewLabel_2.setBounds(658, 639, 146, 32);
 	}
