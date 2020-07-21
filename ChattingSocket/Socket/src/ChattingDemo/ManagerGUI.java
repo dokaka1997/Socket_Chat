@@ -93,7 +93,7 @@ public class ManagerGUI extends JFrame implements Runnable {
 
     public JLabel getLblNewLabel_1() {
 	if (lblNewLabel_1 == null) {
-	    lblNewLabel_1 = new JLabel("DoanDucTin_SE1403");
+	    lblNewLabel_1 = new JLabel("DoDV");
 	    lblNewLabel_1.setForeground(Color.DARK_GRAY);
 	    lblNewLabel_1.setFont(new Font("Tahoma", Font.ITALIC, 15));
 	    lblNewLabel_1.setBounds(670, 597, 147, 29);
